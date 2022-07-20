@@ -1,2 +1,7 @@
 # Socket-Programming-
 Assignment provided by Data Communications and Networking (ECGR 3123)
+Due to how big the size of the files, it cannot be uploaded to github
+Below will be a download link from google drive
+https://drive.google.com/file/d/1FMbUxIca-QP0W_X2V4TtN_zqdxXlENa2/view?usp=sharing
+
+I will try to find an alternative way to reduce the size of the file or upload the key portions of the assingment
